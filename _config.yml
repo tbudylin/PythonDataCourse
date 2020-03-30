@@ -17,8 +17,7 @@ title: Just the Class
 description: A Jekyll theme for course websites.
 author: Kevin Lin
 email: me@example.com
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/PythonDataCourse' # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
