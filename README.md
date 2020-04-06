@@ -1,4 +1,6 @@
-# PythonDataPipeline
-[WIP] Course on Python data pipelines
+# Python for Neuroscientists
 
-This is course is divided into two sections: the first four classes are introductory, and the remaining lectures are more advanced.
+Spring 2020 | Python for Handling Neuroscience Data
+
+This is the github repository for the course material. The course website can be found here: [neuropython.com](neuropython.com)
+
