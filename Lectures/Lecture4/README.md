@@ -1,6 +1,6 @@
 # Lecture 4: Introduction to Python Classes via Linear Regression
 
-April 21, 2020
+April 21, 2020 | Jacob P.
 
 The slides can be viewed by downloading the .html file 
 
